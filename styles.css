@@ -7,7 +7,6 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
@@ -22,9 +21,15 @@ h1 {
   color: #4ECCA3;
 }
 
-h3{
-  color: green;
+h3 {
+  color: #584a4a;
   font-family: 'Lobster', cursive;
+}
+
+button {
+  border-radius: 100%;
+  font-size: 20px;
+  background-color: #4b83bd;
 }
 
 p {
@@ -42,5 +47,4 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
 }
